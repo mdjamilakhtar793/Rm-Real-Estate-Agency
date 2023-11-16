@@ -55,7 +55,11 @@ const Home = () => {
         </h1>
         <div className="text-gray-500 text-xs sm:text-sm">
           Mubassira Estate is to the best place to find your next perfect place
-          to live.
+          to live.Real estate agency that specializes in helping clients buy,
+          sell, and rent properties in the most desirable neighborhoods. Our
+          team of experienced agents is dedicated to providing exceptional
+          service and making the buying and selling process as smooth as
+          possible.
           <br />
           we have a wide range of properties for you to choose from.
         </div>

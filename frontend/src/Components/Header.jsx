@@ -27,7 +27,7 @@ const Header = () => {
       <div className="flex justify-between items-center max-w-6xl mx-auto p-3">
         <Link to="/">
           <h1 className="font-bold text-sm sm:text-xl flex flex-wrap">
-            <span className="text-blue-500">R-M</span>
+            <span className="text-blue-500">Mubassira-Real-Estate</span>
             <img src={logo} alt="logo" />
           </h1>
         </Link>
